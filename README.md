@@ -4,7 +4,7 @@ Aspiring Data Analyst passionate about transforming raw data into business insig
 
 ## 🚀 Aspiring Data Analyst
 
-I am transitioning from Merchandising to Data Analytics with experience in business operations, vendor management, and production planning. I enjoy solving business problems using data and building dashboards that support decision-making.
+I am transitioning from Merchandising to Data Analytics with experience in business operations, sales planning,  vendor management, and production planning. I enjoy solving business problems using data and building dashboards that support decision-making.
 
 ---
 
